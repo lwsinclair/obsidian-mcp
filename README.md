@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/stevenstavrakis-obsidian-mcp-badge.png)](https://mseep.ai/app/stevenstavrakis-obsidian-mcp)
+
 # Obsidian MCP Server
 
 [![smithery badge](https://smithery.ai/badge/obsidian-mcp)](https://smithery.ai/server/obsidian-mcp)
